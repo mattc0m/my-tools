@@ -24,7 +24,7 @@ I recommend and advocate anything I've listed here, but will also mention tools 
 
 ### Project Management
 * [github](http://www.github.com) - for code management, issue tracking, sprint planning (via "projects")
-* [slack](https://slack.com/) - chat application for team discussion and real-time chat. easy and free.
+* [Slack](https://slack.com/) - chat application for team discussion and real-time chat. easy and free.
 
 ### Website Management
 * [blot](https://blot.im/) - for blogging. super minimal, pulls markdown from dropbox, great themes, huge focus on typography. made blogging fun again.
