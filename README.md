@@ -20,9 +20,15 @@ I have a Macbook Air that I use for the majority of my design and development wo
 * [github](http://www.github.com) - for code management, issue tracking, sprint planning (via "projects")
 * [slack](https://slack.com/) - chat application for team discussion and real-time chat. easy and free.
 
+## Website Management
+* [blot](https://blot.im/) - for blogging. super minimal, pulls markdown from dropbox, great themes, huge focus on typography. made blogging fun again.
 
 ## Other
 * [oh-my-zsh](http://ohmyz.sh/) - an upgraded terminal experience for osx.
 
+
+--- 
+
 ## Changelog
-0.1 - Added Word Processors, Text Editors, and some Project Management still. Still need to add a lot.
+- 0.1.1 - Added blot. Love this guy.
+- 0.1 - Added Word Processors, Text Editors, and some Project Management still. Still need to add a lot.
