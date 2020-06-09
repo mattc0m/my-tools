@@ -33,6 +33,7 @@ I recommend and advocate anything I've listed here, but will also mention tools 
 * [oh-my-zsh](http://ohmyz.sh/) - an upgraded terminal experience for osx.
 
 
+
 --- 
 
 ## Changelog
